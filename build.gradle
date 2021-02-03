@@ -38,3 +38,4 @@ task spigotJar(type: Copy) {
     from jar
     into 'C:\\Users\\nemo\\Workspace\\Server\\pirate-roulette\\plugins'
 }
+//모드 좀 주세요
